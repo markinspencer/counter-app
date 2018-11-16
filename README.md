@@ -1,3 +1,21 @@
+## Objective 
+
+This objective with this application is to demonstrate the following react fundamentals
+
+* Rendering classes dynamically
+* Binding event handlers
+* Updating state
+* Passing event arguments
+* Composing components
+* Passing data to components
+* Raising and handling events
+* Utilizing a single source of truth
+* Syncing state across multiple components
+* Destructuring arguments
+* Stateless functional components
+
+## 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
