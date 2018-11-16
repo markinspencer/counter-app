@@ -1,6 +1,6 @@
 ## Objective 
 
-This objective with this application is to demonstrate the following react fundamentals
+The objective with this application is to demonstrate the following react fundamentals
 
 * Rendering classes dynamically
 * Binding event handlers
